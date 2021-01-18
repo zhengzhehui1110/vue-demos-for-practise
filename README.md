@@ -29,4 +29,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 	- 编程式导航
 	- 命名路由和视图
 	- 重定向和别名
+	- 路由传参
+- 列表动画
+
 - element-ui
+- Lodash.js
